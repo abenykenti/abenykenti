@@ -1,16 +1,20 @@
-<h1>Hi, I'm Abeny! Passionate Cybersecurity Professional<br/><a 
+<h1>Hi, I'm Abeny! Passionate IT Cybersecurity Professional<br/><a 
+                          
+<h2>👨‍💻 Cloud Projects:</h2>
 
-<h2>👨‍💻Projects:</h2>
-
-- <b>Azure / Cloud Project</b>
+- <b>Honeynet SOC Azure</b>
   - [Creating a Live Honeynet in Azure](https://github.com/abenykenti/Azure-Honeynet-SOC.git)
 - Azure AD: Microsost Entra ID
-  -  <b>[Azure Active Directory](https://github.com/abenykenti/Active-Directory-in-Azure.git) <b><i>
-- <b>osTicket</b>
+  -  <b>[Configuring On-premises Active Directory within Azure VMS](https://github.com/abenykenti/Active-Directory-in-Azure.git) <b><i>
+- <b>osTicket(Help Desk Ticketing System)</b>
   - [Implementing a Help Desk Ticketing System](https://github.com/abenykenti/osTicket.git)
+ 
+<h2>👨‍💻 Cloud Azure Projects:</h2>
 
 - <b> GRC  In progress :)</b>
   - [Governance, Risk, and Compliance Audit and Security Awareness](https://github.com/abenykenti/Governance-Risk-and-Compliance-Audit-and-Security-Awareness.git)
+
+
 
 
 <h2>📺 Popular YouTube Videos</h2>
