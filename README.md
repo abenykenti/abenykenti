@@ -7,7 +7,7 @@
 - Azure AD: Microsost Entra ID
   -  <b>[Azure Active Directory](https://github.com/abenykenti/Active-Directory-in-Azure.git) <b><i>
 - <b>osTicket</b>
-  - [Implementing a Help Desk Ticketing System](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Implementing a Help Desk Ticketing System](https://github.com/abenykenti/osTicket.git)
 
 - <b> GRC  In progress :)</b>
   - [Governance, Risk, and Compliance Audit and Security Awareness](https://github.com/abenykenti/Governance-Risk-and-Compliance-Audit-and-Security-Awareness.git)
