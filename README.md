@@ -1,4 +1,4 @@
-<h1>Hi, I'm Abeny! Passionate IT Cybersecurity Professional<br/><a 
+<h1>Hi, I'm Abeny! Passionate IT Professional<br/><a 
                           
 <h2>👨‍💻 Cloud Projects:</h2>
 
