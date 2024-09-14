@@ -9,7 +9,7 @@
 - <b>osTicket(Help Desk Ticketing System)</b>
   - [Implementing a Help Desk Ticketing System](https://github.com/abenykenti/osTicket.git)
  
-<h2>👨‍💻 Cloud Azure Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b> GRC  In progress :)</b>
   - [Governance, Risk, and Compliance Audit and Security Awareness](https://github.com/abenykenti/Governance-Risk-and-Compliance-Audit-and-Security-Awareness.git)
