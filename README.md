@@ -1,6 +1,8 @@
-<h1>Hi, I'm Abeny! Passionate IT Professional<br/><a 
-                          
-<h2>👨‍💻 Cloud Projects:</h2>
+<h1>Hi, I'm Abeny! IT Cybersecurity Professional<br/><a>
+
+
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Honeynet SOC Azure</b>
   - [Creating a Live Honeynet in Azure](https://github.com/abenykenti/Azure-Honeynet-SOC.git)
