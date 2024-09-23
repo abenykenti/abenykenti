@@ -1,4 +1,4 @@
-<h1>Hi, I'm Abeny! IT Cybersecurity Professional<br/><a>
+<h1>Hi, I'm Abeny! IT Professional<br/><a>
 
 
 
