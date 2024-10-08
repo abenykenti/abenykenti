@@ -1,7 +1,5 @@
- 
-
-<h1 align="center">Hi, I'm Abeny! 👋 <br/>Cybersecurity & IT Professional 🚀</h1>
-
+# 👋 Hi, I'm Abeny!  
+### Cybersecurity Professional | GRC Specialist | Microsoft Azure Enthusiast  
 ---
 
 ### 🚀 **Current Projects:**
@@ -26,9 +24,14 @@
 
 ---
 
+### 🎓 **Certifications:**
+- **CompTIA Security+**
+- **ISC2 Certified in Cybersecurity (CC)**
+- **CourseCareers IT Professional**
+- **Leveld Cybersecurity Professional** 
+---
+
 ### 💼 **Professional Highlights:**
-- Building a live Honeynet for threat detection and incident response 
-- Configuring and securing Active Directory within Azure VMs **SecureAuth-AD**
 - Developed and implemented security policies and procedures for **SecureAuth-AD**
 - Led security audits and compliance assessments using **NIST 800-53** and **ISO 27001**
 - Created and managed **System Security Plans (SSP)**, ensuring confidentiality, integrity, and availability  
@@ -36,13 +39,13 @@
 ---
 
 ### 🌱 **Learning & Growth:**
-- **Continuous Monitoring (ISCM)** to enhance ongoing security in Azure
-- CompTIA CySA+ (In progress), CompTIA NET+ (In progress)
+- **Continuous Monitoring (ISCM)** to enhance ongoing security practices
+- **Risk Management Framework (RMF)** for integrating security throughout the lifecycle of information systems  
 
 ---
 
 ### 📫 **Let's Connect:**
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 📧 Email: [abeny.chinkok@gmail.com](mailto:abeny.chinkok@gmail.com)
+- 📧 Email: [abeny.kenti@gmail.com](mailto:abeny.kenti@gmail.com)
 
 ---
