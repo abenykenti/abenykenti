@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Abeny!  
-### Cybersecurity Professional | GRC Specialist | Microsoft Azure Enthusiast  
----
+<h1 align="center">Hi, I'm Abeny! 👋 <br/>Cybersecurity & IT Professional 🚀</h1> 
 
 ### 🚀 **Current Projects:**
 - **SecureAuth-AD (Authentication & Directory System)**
@@ -39,9 +37,8 @@
 ---
 
 ### 🌱 **Learning & Growth:**
-- **Continuous Monitoring (ISCM)** to enhance ongoing security practices
-- **Risk Management Framework (RMF)** for integrating security throughout the lifecycle of information systems  
-
+- **Continuous Monitoring (ISCM)** Azure implementation
+- **CompTIA CySA+ (In progress), CompTIA NET+ (In progress)**
 ---
 
 ### 📫 **Let's Connect:**
