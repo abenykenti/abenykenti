@@ -37,7 +37,7 @@
 
 ### 🌱 **Learning & Growth:**
 - **Continuous Monitoring (ISCM)** to enhance ongoing security in Azure
-- **CompTIA CySA+ (In progress), CompTIA NET+ (In progress)
+- CompTIA CySA+ (In progress), CompTIA NET+ (In progress)
 
 ---
 
