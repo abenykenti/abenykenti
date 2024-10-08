@@ -3,7 +3,7 @@
 ### 🚀 **Current Projects:**
 - **SecureAuth-AD (Authentication & Directory System)**
   - [Configuring and securing Active Directory within Azure VMs](https://github.com/abenykenti/Azure-Active-Directory.git)  
-  - [Documentation: SecureAuth-AD SSP](https://github.com/abenykenti/SecureAuth-AD-Access-Control-Policies-and-Procedures.git)
+  - [Documentation: SecureAuth-AD Access Control Security Policies and Procedures (ISPP)](https://github.com/abenykenti/SecureAuth-AD-Access-Control-Policies-and-Procedures.git)
   - [Risk Management Framework (RMF)NIST 800-37 Implementation]()
   - [NIST 800-53 Audit – Account Lockout Policy Control]()
   - [ISO 27001 Audit – Account Lockout Policy Control]()
