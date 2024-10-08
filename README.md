@@ -2,18 +2,16 @@
 
 ### 🚀 **Current Projects:**
 - **SecureAuth-AD (Authentication & Directory System)**
-  - [Configuring and securing SecureAuth-AD within Azure VMs](https://github.com/abenykenti/Azure-Active-Directory.git)  
+  - [Configuring and securing SecureAuth-AD within Azure VMs](https://github.com/abenykenti/Azure-Active-Directory.git)
   - [SecureAuth-AD Access Control Security Policy and Procedure (ISPP)](https://github.com/abenykenti/SecureAuth-AD-Access-Control-Policies-and-Procedures.git)
+- **GRC Audit & Security Awareness**
   - [Implementation of Risk Management Framework (RMF)NIST 800-37]()
   - [NIST 800-53 Audit – Account Lockout Policy Control]()
   - [ISO 27001 Audit – Account Lockout Policy Control]()
 
+
 - **Honeynet SOC (Security Operations Center) in Azure**
-  - [Building a live Honeynet for threat detection and incident response](https://github.com/abenykenti/Azure-Honeynet-SOC.git)  
-
-- **GRC Audit & Security Awareness**
-  - [Governance, Risk, and Compliance audit based on industry standards](https://github.com/abenykenti/Governance-Risk-and-Compliance-Audit-and-Security-Awareness.git)  
-
+  - [Building a live Honeynet for threat detection and incident response](https://github.com/abenykenti/Azure-Honeynet-SOC.git)
 ---
 
 ### 🛠 **Technologies & Skills:**
@@ -33,9 +31,10 @@
 ---
 
 ### 💼 **Professional Highlights:**
-- Developed and implemented Access Control Security Policy and Procedure (ISPP) **SecureAuth-AD**
+- Created and managed **System Security Plans (SSP)**, ensuring confidentiality, integrity, and availability
+- Developed Access Control Security Policy and Procedure (ISPP) 
 - Led security audits and compliance assessments using **NIST 800-53** and **ISO 27001**
-- Created and managed **System Security Plans (SSP)**, ensuring confidentiality, integrity, and availability  
+- Implementated Risk Management Framework (RMF) NIST 800-37
 
 ---
 
