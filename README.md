@@ -1,39 +1,48 @@
+ 
 
-<h1>Hi, I'm Abeny! Cybersecurity Professional</h1>
+<h1 align="center">Hi, I'm Abeny! 👋 <br/>Cybersecurity & IT Professional 🚀</h1>
 
-<h2>👨‍💻 Microsoft Azure Projects:</h2>
+---
 
-- <b>Azure AD: SecureAuth-AD (Secure Authentication & Directory System)</b>
-  - [Configuring On-premises Active Directory within Azure VMS](https://github.com/abenykenti/Azure-Active-Directory.git)
-  - **System Security Plan (SSP)**: Developed and implemented an SSP for SecureAuth-AD using NIST 800-53 and ISO 27001 standards to protect sensitive organizational data.
-  - **ISCM Policy**: Drafted and implemented an Information Security Continuous Monitoring (ISCM) policy to ensure continuous compliance and security.
-  - **Risk Management Framework (RMF)**: Applied RMF principles for secure system authorization and risk mitigation.
-  - **Auditing and Compliance**: Conducted audits using NIST 800-53 and ISO 27001 to ensure regulatory compliance and system integrity.
+### 🚀 **Current Projects:**
+- **SecureAuth-AD (Authentication & Directory System)**
+  - [Configuring and securing Active Directory within Azure VMs](https://github.com/abenykenti/Azure-Active-Directory.git)  
+  - Focus: Security Policy Implementation, Risk Management Framework (RMF), NIST 800-53, ISO 27001
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [Implementing a Help Desk Ticketing System](https://github.com/abenykenti/osTicket.git)
+- **Honeynet SOC (Security Operations Center) in Azure**
+  - [Building a live Honeynet for threat detection and incident response](https://github.com/abenykenti/Azure-Honeynet-SOC.git)  
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+- **GRC Audit & Security Awareness**
+  - [Governance, Risk, and Compliance audit based on industry standards](https://github.com/abenykenti/Governance-Risk-and-Compliance-Audit-and-Security-Awareness.git)  
 
-- <b>Honeynet SOC Azure</b>
-  - [Creating a Live Honeynet in Azure](https://github.com/abenykenti/Azure-Honeynet-SOC.git)
-  - **SIEM Implementation**: Implemented Azure Sentinel to monitor and respond to security incidents.
-  
-- <b>GRC Projects</b>
-  - [Governance, Risk, and Compliance Audit and Security Awareness](https://github.com/abenykenti/Governance-Risk-and-Compliance-Audit-and-Security-Awareness.git)
-  - **GRC Audit**: Conducted audits aligning with NIST 800-53 and ISO 27001, focusing on key compliance controls for regulatory requirements.
-```
+---
 
-**abenykenti/abenykenti ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 **Technologies & Skills:**
+- **Cloud & Infrastructure:** Microsoft Azure, Azure AD, Virtual Networks, Virtual Machines  
+- **Cybersecurity:** NIST 800-53, ISO 27001, Vulnerability Management, Continuous Monitoring (ISCM)  
+- **GRC:** Governance, Risk & Compliance, Security Audits, RMF (Risk Management Framework)  
+- **Tools:** Nessus, Sentinel, Metasploit, SIEM, SecureAuth-AD  
+- **Ticketing Systems:** osTicket, ServiceNow  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 **Professional Highlights:**
+- Building a live Honeynet for threat detection and incident response 
+- Configuring and securing Active Directory within Azure VMs **SecureAuth-AD**
+- Developed and implemented security policies and procedures for **SecureAuth-AD**
+- Led security audits and compliance assessments using **NIST 800-53** and **ISO 27001**
+- Created and managed **System Security Plans (SSP)**, ensuring confidentiality, integrity, and availability  
+
+---
+
+### 🌱 **Learning & Growth:**
+- **Continuous Monitoring (ISCM)** to enhance ongoing security in Azure
+- **CompTIA CySA+ (In progress), CompTIA NET+ (In progress)
+
+---
+
+### 📫 **Let's Connect:**
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 📧 Email: [abeny.chinkok@gmail.com](mailto:abeny.chinkok@gmail.com)
+
+---
