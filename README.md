@@ -31,15 +31,16 @@
 ---
 
 ### 💼 **Professional Highlights:**
-- Created and managed **System Security Plans (SSP)**, ensuring confidentiality, integrity, and availability
-- Developed Access Control Security Policy and Procedure (ISPP) 
-- Led security audits and compliance assessments using **NIST 800-53** and **ISO 27001**
+
+- Honeynet SOC (Security Operations Center) in Azur
 - Implementated Risk Management Framework (RMF) NIST 800-37
+- Created and managed **System Security Plans (SSP)**, ensuring confidentiality, integrity, and availability 
+- Led security audits and compliance assessments using **NIST 800-53** and **ISO 27001**
 
 ---
 
 ### 🌱 **Learning & Growth:**
-- **Continuous Monitoring (ISCM)** Azure implementation
+- **Continuous Monitoring (ISCM)** implementation in Azure enviroment
 - **CompTIA CySA+ (In progress), CompTIA NET+ (In progress)**
 ---
 
