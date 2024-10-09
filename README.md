@@ -6,8 +6,8 @@
   - [SecureAuth-AD Access Control Security Policy and Procedure (ISPP)](https://github.com/abenykenti/SecureAuth-AD-Access-Control-Policies-and-Procedures.git)
 - **Governance, Risk & Compliance Audits**
   
-  - [NIST 800-53 Audit – Account Lockout Policy Control]()
-  - [ISO 27001 Audit – Account Lockout Policy Control]()
+  - [SecureAuth-AD NIST 800-53 Compliance Audit Report]()
+  - [SecureAuth-AD ISO 27001 Compliance Audit Report]()
 
 
 - **Honeynet SOC (Security Operations Center) in Azure**
