@@ -5,7 +5,7 @@
   - [Configuring and securing SecureAuth-AD within Azure VMs](https://github.com/abenykenti/Azure-Active-Directory.git)
   - [SecureAuth-AD Access Control Security Policy and Procedure (ISPP)](https://github.com/abenykenti/SecureAuth-AD-Access-Control-Policies-and-Procedures.git)
 - **GRC Audit & Security Awareness**
-  - [Implementation of Risk Management Framework (RMF) NIST 800-37]()
+  
   - [NIST 800-53 Audit – Account Lockout Policy Control]()
   - [ISO 27001 Audit – Account Lockout Policy Control]()
 
@@ -16,7 +16,7 @@
 
 ### 🛠 **Technologies & Skills:**
 - **Cloud & Infrastructure:** Microsoft Azure, Azure AD, Virtual Networks, Virtual Machines  
-- **Cybersecurity:** NIST 800-53, ISO 27001, Vulnerability Management, Continuous Monitoring (ISCM)  
+- **Cybersecurity:** NIST 800-53, ISO 27001, Vulnerability Management  
 - **GRC:** Governance, Risk & Compliance, Security Audits, RMF (Risk Management Framework)  
 - **Tools:** Nessus, Sentinel, Metasploit, SIEM, SecureAuth-AD  
 - **Ticketing Systems:** osTicket, ServiceNow  
@@ -32,8 +32,7 @@
 
 ### 💼 **Professional Highlights:**
 
-- Honeynet SOC (Security Operations Center) in Azur
-- Implementated Risk Management Framework (RMF) NIST 800-37
+- Honeynet SOC (Security Operations Center) in Azure
 - Created and managed **System Security Plans (SSP)**, ensuring confidentiality, integrity, and availability 
 - Led security audits and compliance assessments using **NIST 800-53** and **ISO 27001**
 
