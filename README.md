@@ -4,7 +4,7 @@
 - **SecureAuth-AD (Authentication & Directory System)**
   - [Configuring and securing SecureAuth-AD within Azure VMs](https://github.com/abenykenti/Azure-Active-Directory.git)
   - [SecureAuth-AD Access Control Security Policy and Procedure (ISPP)](https://github.com/abenykenti/SecureAuth-AD-Access-Control-Policies-and-Procedures.git)
-- **GRC Audit & Security Awareness**
+- **Governance, Risk & Compliance Audits**
   
   - [NIST 800-53 Audit – Account Lockout Policy Control]()
   - [ISO 27001 Audit – Account Lockout Policy Control]()
