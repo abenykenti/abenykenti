@@ -39,7 +39,6 @@
 ---
 
 ### 🌱 **Learning & Growth:**
-- **Expanding knowledge of Cybersecurity Maturity Model Certification (CMMC)** focusing on aligning security practices with the framework
 - **CompTIA CySA+ (In progress), CompTIA NET+ (In progress)**
 ---
 
