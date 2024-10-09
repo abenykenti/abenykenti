@@ -8,6 +8,7 @@
   
   - [SecureAuth-AD NIST 800-53 Compliance Audit Report](https://github.com/abenykenti/SecureAuth-AD-NIST-800-53-Compliance-Audit-Report.git)
   - [SecureAuth-AD ISO 27001 Compliance Audit Report](https://github.com/abenykenti/ISO-27001-Audit-Account-Lockout-Policy-Control.git)
+  - [Plan of Action & Milestones (POA&M) for SecureAuth-A](https://github.com/abenykenti/Plan-of-Action-Milestones-POA-M-for-SecureAuth-AD.git)
 
 
 - **Honeynet SOC (Security Operations Center) in Azure**
