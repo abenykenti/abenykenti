@@ -40,7 +40,7 @@
 ---
 
 ### 🌱 **Learning & Growth:**
-- **Continuous Monitoring (ISCM)** implementation in Azure enviroment
+- **Expanding knowledge of Cybersecurity Maturity Model Certification (CMMC)** focusing on aligning security practices with the framework
 - **CompTIA CySA+ (In progress), CompTIA NET+ (In progress)**
 ---
 
