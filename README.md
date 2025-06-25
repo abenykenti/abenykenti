@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Abeny! 👋 <br/>IT Professional & Cybersecurity 🚀</h1> 
+<h1 align="center">Hi, I'm Abeny! 👋 <br/>IT & Cybersecurity Professional 🚀</h1> 
 
 ### 🚀 **Current Projects:**
 - **SecureAuth-AD (Authentication & Directory System)**
