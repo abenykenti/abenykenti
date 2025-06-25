@@ -49,7 +49,7 @@ Western Governors University (In progress)**
 ---
 
 ### 📫 **Let's Connect:**
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 💼 [LinkedIn]
 - 📧 Email: [abeny.kenti@gmail.com](mailto:abeny.kenti@gmail.com)
 
 ---
