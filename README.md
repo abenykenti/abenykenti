@@ -26,7 +26,10 @@
 
 ### 🎓 **Certifications:**
 - **CompTIA Security+**
+- **CompTIA NET+**
+- **CompTIA A+**
 - **ISC2 Certified in Cybersecurity (CC)**
+- **ITIL 4 Foundations|PeopleCert**
 - **CourseCareers IT Professional**
 - **Leveld Cybersecurity Professional** 
 ---
@@ -40,7 +43,9 @@
 ---
 
 ### 🌱 **Learning & Growth:**
-- **CompTIA CySA+ (In progress), CompTIA NET+ (In progress)**
+- **CompTIA CySA+ (In progress)**
+- **Bachelor’s of Cybersecurity and Information Assurance 
+Western Governors University (In progress)**
 ---
 
 ### 📫 **Let's Connect:**
