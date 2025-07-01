@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Abeny! 👋 <br/>Cybersecurity | GRC & SOC | Compliance | Risk Management | Azure | NIST 800-53 🚀</h1>
 
-<p align="center"><em>Cybersecurity professional with a background in ISO compliance and regulated lab automation. I focus on GRC and SOC operations, bridging process-driven risk management with hands-on security monitoring and documentation. Passionate about helping organizations stay compliant and secure.</em></p>
+<p align="center"><em>Cybersecurity professional transitioning from ISO compliance and auditing into GRC and SOC roles. I build hands-on projects in Azure and enjoy aligning technical work with frameworks like NIST and ISO 27001. Currently seeking opportunities to support risk assessments, security monitoring, and control implementation while continuing to grow in the field.</em></p>
 
 ### 🚀 **Current Projects:**
 - **SecureAuth-AD (Authentication & Directory System)**
